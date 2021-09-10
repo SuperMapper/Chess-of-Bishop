@@ -9,7 +9,7 @@ Map file: [8] Chess of Bishop Extra Small (v1.0) by SuperMapper_d1836bf78e67e96e
 
 # Next release
 
-**[8] Chess of Bishop Extra Small (v1.1) by SuperMapper**
+**COB Extra Small v1.1**
 planned on 11 September 2021.
 
 **COB Small**
