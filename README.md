@@ -18,7 +18,7 @@ released in CnCNet YR Client on Saturday, ‎18 ‎September ‎2021.
    No new version planned
 
 
-3. **[8] Chess of Bishop Small (v1.1) by SuperMapper**
+3. **[8] Chess of Bishop (v1.1) by SuperMapper**
 released in CnCNet YR Client on Saturday, ‎25 ‎September ‎2021.
 
    Map file: [8] Chess of Bishop (v1.1) by SuperMapper_5527c2b872b8222d838aea2ce74b384cfb18668a.map
